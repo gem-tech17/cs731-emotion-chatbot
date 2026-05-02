@@ -1,0 +1,10 @@
+.env
+data/
+train_images/
+test_images/
+checkpoints/
+__pycache__/
+*.pyc
+train_ORIGINAL_BACKUP.py
+image.png
+.fr-agIVqE/
