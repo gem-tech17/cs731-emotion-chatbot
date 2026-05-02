@@ -73,7 +73,7 @@ The system recognises 8 emotions based on Ekman's theory:
 
 | Model | Test Accuracy | Notes |
 |-------|-------------|-------|
-| ConvNeXtV2 Pico | ~78.8% | Lecturer baseline |
+| ConvNeXtV2 Pico | 78.8% | Lecturer baseline |
 | ResNet-50 | 81.90% | Good improvement |
 | **EfficientNet-B0** | **82.76%** | **Best — selected** |
 
