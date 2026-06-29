@@ -2,15 +2,6 @@
 
 A real-time emotion-aware chatbot that detects facial expressions via webcam and adapts its responses to support students during study sessions.
 
----
-
-## Team Members
-- Harini Selvaraj
-- Gem Ann Joseph
-- Jamuna Rani Pandia Rajan
-
----
-
 ## Project Overview
 
 This system combines:
